@@ -1,0 +1,40 @@
+.cabeçalho{
+    background-color: gray;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+    
+}
+.cabeçalho-lista-item{
+    display:inline-block;
+    margin :0 16px;
+}
+
+.fachada-imagem{
+    width: 30%;
+}
+.mecanica{
+    background-image: blue;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mecanica-div-conteudo{
+    width: 50%;
+}
+.texto{
+    padding: 24px 0;
+}
+
+.rodape{
+    background-color: gray;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    
+}
